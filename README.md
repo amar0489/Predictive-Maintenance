@@ -1,0 +1,5 @@
+Predictive Maintenance (PdM) is a proactive maintenance strategy that uses data analytics, machine learning, and IoT technologies to predict equipment failures before they occur. By analyzing historical data, monitoring real-time conditions, and detecting anomalies, PdM aims to schedule maintenance tasks precisely when they are needed, thereby reducing downtime, lowering maintenance costs, and improving operational efficiency.
+This project comprises of an alerting mechanism application used to predict the breakdown of milling machines and accordingly send alerts to the production team thus efficiently managing the downtime and optimizing maintenance schedules.
+The tools used for this project are python for data analysis, machine learning libraries for model building and streamlit for deployment. This dataset is part of the following publication, please cite when using this dataset:
+S. Matzka, "Explainable Artificial Intelligence for Predictive Maintenance Applications," 2020 Third International Conference on Artificial Intelligence for Industries (AI4I), 2020, pp. 69-74, doi: 10.1109/AI4I49448.2020.00023.
+
